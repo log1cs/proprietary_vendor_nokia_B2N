@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/B2N/proprietary/vendor/etc/acdbdata/B2N/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/B2N/Speaker_cal.acdb \
     vendor/nokia/B2N/proprietary/vendor/etc/acdbdata/B2N/workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/B2N/workspaceFile.qwsp \
     vendor/nokia/B2N/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
-    vendor/nokia/B2N/proprietary/vendor/etc/audio_platform_info_b2n.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_b2n.xml \
+    vendor/nokia/B2N/proprietary/vendor/etc/audio_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info.xml \
     vendor/nokia/B2N/proprietary/vendor/etc/camera/calibration_test.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/calibration_test.bin \
     vendor/nokia/B2N/proprietary/vendor/etc/camera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camera_config.xml \
     vendor/nokia/B2N/proprietary/vendor/etc/camera/mgbeautify_1_2_4_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mgbeautify_1_2_4_model \
