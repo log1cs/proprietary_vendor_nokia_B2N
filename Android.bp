@@ -1622,7 +1622,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0.so",
             ],
             shared_libs: [
-                "libhidlbase",
+                "libhidlbase-v32",
                 "libhidltransport",
                 "libhwbinder",
                 "liblog",
@@ -1663,7 +1663,7 @@ cc_prebuilt_library_shared {
                 "libprotobuf-cpp-lite",
                 "libcrypto",
                 "liblog",
-                "libhidlbase",
+                "libhidlbase-v32",
                 "libhidltransport",
                 "libhwbinder",
                 "android.hidl.base@1.0",
