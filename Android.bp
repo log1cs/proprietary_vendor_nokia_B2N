@@ -211,7 +211,6 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/hw/camera.sdm660.so",
             ],
             shared_libs: [
-                "libshim_megvii",
                 "libui_shim",
                 "liblog",
                 "libhardware",
@@ -239,6 +238,8 @@ cc_prebuilt_library_shared {
                 "libarcsoft_beautyshot_video_algorithm",
                 "libEGL",
                 "libGLESv2",
+                "libmegface",
+                "libMegviiFacepp-0.5.2",
                 "libfih_camera_effect",
                 "libimage_matting",
                 "libc++",
